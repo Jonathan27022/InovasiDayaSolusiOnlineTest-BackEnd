@@ -1,0 +1,1 @@
+A RESTful API Web built using C# Language and ASP.NET to serve transaction data from SQL Server database. I use Entity Framework Core with Code-First method, Database Scheme Management by Migrations, and seeding data for initial data. This API outputs JSON response & integrated with Swagger.

@@ -1,0 +1,76 @@
+LOGICAL PROGRAMMING TEST
+
+i1 = 0
+i2 = i2(0) + i1(0) + i3(0) - i5(0) = 0
+i3 = i3(0) + (i1(0) + i2(0)) - i4(0) = 0
+i4 = i4(0) + (i1(0) + i2(0)) - i3(0) = 0
+i5 = i1(0) + i2(0) + i3(0) = 0
+
+i1 = 1
+i5 = i1(1) + i2(0) + i3(0) = 1
+
+i1 = 2
+i4 = i4(0) + (i1(2) + i2(0)) - i3(0) = 2
+i5 = i1(2) + i2(0) + i3(0) = 2
+
+i1 = 3
+i3 = i3(0) + (i1(3) + i2(0)) - i4(2) = 1
+i5 = i1(3) + i2(0) + i3(1) = 4
+
+i1 = 4
+i2 = i2(0) + i1(4) + i3(1) - i5(4) = 1
+i4 = i4(2) + (i1(4) + i2(1)) - i3(1) = 6
+i5 = i1(4) + i2(1) + i3(1) = 6
+
+i1 = 5
+i5 = i1(5) + i2(1) + i3(1) = 7
+
+i1 = 6
+i3 = i3(1) + (i1(6) + i2(1)) - i4(6) = 2
+i4 = i4(6) + (i1(6) + i2(1)) - i3(2) = 11
+i5 = i1(6) + i2(1) + i3(2) = 9
+
+i1 = 7
+i5 = i1(7) + i2(1) + i3(2) = 10
+
+i1 = 8
+i2 = i2(1) + i1(8) + i3(2) - i5 (10) = 1
+i4 = i4(11) + (i1(8) + i2(1)) - i3(2) = 18
+i5 = i1(8) + i2(1) + i3(2) = 11
+
+i1 = 9
+i3 = i3(2) + (i1(9) + i2(1)) - i4(18) = -6
+i5 = i1(9) + i2(1) + i3(-6) = 4
+
+i1 = 10
+i4 = i4(18) + (i1(10) + i2(1)) - i3(-6) = 35
+i5 = i1(10) + i2(1) + i3(-6) = 5
+
+1. Sebutkan berapakah nilai akhir dari Variable:
+a. i1 = 10
+b. i2 = 1
+c. i3 = -6
+d. i4 = 35
+e. i5 = 5
+
+2. Berapa kalikah nilai iDua mengalami perubahan? Pada saat berapakah nilai iSatu nilai iDua mengalami perubahan?
+a. Nilai iDua berubah : 1 kali
+
+b. Nilai iSatu pada saat nilai iDua mengalami perubahan : 4 (pisahkan dengan koma, jika lebih dari sekali)
+
+3. Berapa kalikah nilai iTiga mengalami perubahan? Pada saat nilai berapakah iEmpat ketika perubahan nilai iTiga yang kedua kalinya terjadi?
+a. Nilai iTiga mengalami perubahan sebanyak 3 kali
+
+b. Nilai iEmpat pada saat nila iTiga berubah untuk kedua kalinya 6
+
+4. Pada saat nilai berapakah iSatu, nilai iTiga kurang dari Nol dan berapakah nilai iTiga nya?
+a. Nilai iSatu pada saat nilai iTiga kurang dari Nol : 9
+(pisahkan dengan koma, jika lebih dari satu kali)
+
+b. Nilai iTiga yang kurang dari Nol : -6
+(pisahkan dengan koma, jika lebih dari satu kali)
+
+
+
+
+
